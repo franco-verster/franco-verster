@@ -1,6 +1,4 @@
 - 👋 Hi there! I’m @franco-verster
-- 🇿🇦 Proudly South African
-- 💻 Owner @ Arrowhead Software (Pty) Ltd
 - ❤️ A love for people and all things technology
 - 📚 Always learning
 - 🥷 Wannabe Software Ninjaneer
